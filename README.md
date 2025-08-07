@@ -24,6 +24,9 @@
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhxYWw0OTU5bDh5NzdycjkxdHExdTVtaGI2dzhlc25renVzN2F0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11s7Ke7jcNxCHS/giphy.gif" width="45%" height="300"/>
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJiZ2Q4N2x4MnM0ODNsb3h0YTNsdDI0ajBzYXAxaGNzaWt0OG9sZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9ZYmoL86uJPwoP1pu/giphy.gif" width="45%" height="300"/>
   </div>
+  <div>
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJiZ2Q4N2x4MnM0ODNsb3h0YTNsdDI0ajBzYXAxaGNzaWt0OG9sZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9ZYmoL86uJPwoP1pu/giphy.gif" width="45%" height="300"/>
+  </div>
 </div>
 
 <!-- Альтернативный вариант с flex-расположением -->

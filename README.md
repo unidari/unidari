@@ -14,7 +14,32 @@
 ## ✨ Моя статистика
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ВАШ_НИКНАЙМ&show_icons=true&theme=radical)](https://github.com/ВАШ_НИКНАЙМ)
 
-## 🐱 А теперь котик!
+## 🐱 Котики спешат на помощь!
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNhNWx6cmVmaTQyYWNtbGZsMmlweXE3cXFjeTJvZW9hYzhxZm1zcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="400" height="300"/>
+  <!-- Первая строка с 2 гифками -->
+  <div>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNhNWx6cmVmaTQyYWNtbGZsMmlweXE3cXFjeTJvZW9hYzhxZm1zcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="45%" height="300"/>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Z5bG5mZ3ZvY2J0bGJ3eGJ4Z2R5d2F6b2VtY2Y1aGZ6eGJmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriO0OEd9QIDdllqo/giphy.gif" width="45%" height="300"/>
+  </div>
+  
+  <!-- Вторая строка с 2 гифками -->
+  <div>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5oY3F0Y2V6dGJ0Z3J2Y2R6dWZqZ2R6Y2ZqY2Z0Z2Z6Y2ZqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="45%" height="300"/>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZqZ2R6Y2ZqY2Z0Z2Z6Y2ZqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jpbnoe3Ua5K8ybx7KT/giphy.gif" width="45%" height="300"/>
+  </div>
 </div>
+
+<!-- Альтернативный вариант с flex-расположением -->
+<!--
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="ВАША_ССЫЛКА_1" width="30%" height="200"/>
+  <img src="ВАША_ССЫЛКА_2" width="30%" height="200"/>
+  <img src="ВАША_ССЫЛКА_3" width="30%" height="200"/>
+  <img src="ВАША_ССЫЛКА_4" width="30%" height="200"/>
+</div>
+-->
+
+<!-- Анимированная подпись -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=Котики+заряжают+мотивацией!;Спасибо+за+визит+%3A)" alt="Анимированная подпись" />
+</p>

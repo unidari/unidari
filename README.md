@@ -1,4 +1,6 @@
-## just chill out, man 
+<p align="center">
+  <em>✨ just chill out, man ✨</em>
+</p>
 <div align="center">
   <div>
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNhNWx6cmVmaTQyYWNtbGZsMmlweXE3cXFjeTJvZW9hYzhxZm1zcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="45%" height="300"/>

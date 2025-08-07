@@ -16,16 +16,13 @@
 
 ## 🐱 Котики спешат на помощь!
 <div align="center">
-  <!-- Первая строка с 2 гифками -->
   <div>
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNhNWx6cmVmaTQyYWNtbGZsMmlweXE3cXFjeTJvZW9hYzhxZm1zcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="45%" height="300"/>
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Z5bG5mZ3ZvY2J0bGJ3eGJ4Z2R5d2F6b2VtY2Y1aGZ6eGJmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriO0OEd9QIDdllqo/giphy.gif" width="45%" height="300"/>
   </div>
-  
-  <!-- Вторая строка с 2 гифками -->
   <div>
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5oY3F0Y2V6dGJ0Z3J2Y2R6dWZqZ2R6Y2ZqY2Z0Z2Z6Y2ZqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="45%" height="300"/>
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZqZ2R6Y2ZqY2Z0Z2Z6Y2ZqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jpbnoe3Ua5K8ybx7KT/giphy.gif" width="45%" height="300"/>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhxYWw0OTU5bDh5NzdycjkxdHExdTVtaGI2dzhlc25renVzN2F0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11s7Ke7jcNxCHS/giphy.gif" width="45%" height="300"/>
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJiZ2Q4N2x4MnM0ODNsb3h0YTNsdDI0ajBzYXAxaGNzaWt0OG9sZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9ZYmoL86uJPwoP1pu/giphy.gif" width="45%" height="300"/>
   </div>
 </div>
 

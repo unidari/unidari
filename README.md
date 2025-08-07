@@ -1,6 +1,9 @@
 <p align="center">
   <em><strong style="font-size: 150px;"> ✨ just chill out, man ✨</strong></em>
 </p>
+<p align="center">
+  :trollface: :trollface: :trollface:
+</p>
 <div align="center">
   <div>
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNhNWx6cmVmaTQyYWNtbGZsMmlweXE3cXFjeTJvZW9hYzhxZm1zcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="45%" height="300"/>
@@ -11,4 +14,3 @@
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBxbXJ6cmJ3dmI5N2d4bnRjZTF3emxrenJkZzFhanhvNnI0bWpjdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/auxDaJxhVa2By/giphy.gif" width="45%" height="300"/>
   </div>
 </div>
-:trollface: :trollface: :trollface:

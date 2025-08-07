@@ -16,7 +16,7 @@
 
 ## 🐱 А теперь котик!
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5lY2J4Y2Q5eGZ0d3F1Y2V6OGVtN2VjY2FhZ2R6eGJ6bGJ3eXh1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="400" height="300"/>
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5lY2J4Y2Q5eGZ0d3F1Y2V6OGVtN2VjY2FhZ2R6eGJ6bGJ3eXh1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamkxdG05MHcybHBmNjEwdHE2NmNvczJieXB1ajc3aGtqeDk2cGt0eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LHZyixOnHwDDy/giphy.gif)" width="400" height="300"/>
 </div>
 
 <!-- Анимированная подпись -->

@@ -22,7 +22,7 @@
   </div>
   <div>
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhxYWw0OTU5bDh5NzdycjkxdHExdTVtaGI2dzhlc25renVzN2F0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11s7Ke7jcNxCHS/giphy.gif" width="45%" height="300"/>
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczRhMWsxazVnZmp4emxuam8yNzRyZzRlamY2dGhzemh3djgwamZ1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5tSvsYJl4T4fC/giphy.gif" width="45%" height="300"/>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBxbXJ6cmJ3dmI5N2d4bnRjZTF3emxrenJkZzFhanhvNnI0bWpjdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/auxDaJxhVa2By/giphy.gif" width="45%" height="300"/>
   </div>
 </div>
 

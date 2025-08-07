@@ -1,5 +1,5 @@
 <p align="center">
-  <em><strong style="font-size: 20px;"> ✨ just chill out, man ✨</strong></em>
+  <em><strong style="font-size: 40px;"> ✨ just chill out, man ✨</strong></em>
 </p>
 <div align="center">
   <div>

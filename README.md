@@ -5,10 +5,12 @@
 🎯 Цель: [ваша цель, например: "создавать полезные open-source проекты"]  
 
 ## 🛠 Мой стек технологий
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+(https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white
+https://img.shields.io/badge/-C++-00599C?logo=c%252B%252B&logoColor=white
+https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white
+https://img.shields.io/badge/-Julia-9558B2?logo=julia&logoColor=white
+https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white
+https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 <!-- Добавьте свои технологии -->
 
 ## ✨ Моя статистика
@@ -26,17 +28,4 @@
   </div>
 </div>
 
-<!-- Альтернативный вариант с flex-расположением -->
-<!--
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="ВАША_ССЫЛКА_1" width="30%" height="200"/>
-  <img src="ВАША_ССЫЛКА_2" width="30%" height="200"/>
-  <img src="ВАША_ССЫЛКА_3" width="30%" height="200"/>
-  <img src="ВАША_ССЫЛКА_4" width="30%" height="200"/>
-</div>
--->
 
-<!-- Анимированная подпись -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=Котики+заряжают+мотивацией!;Спасибо+за+визит+%3A)" alt="Анимированная подпись" />
-</p>
